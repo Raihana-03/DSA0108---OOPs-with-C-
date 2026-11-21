@@ -1,0 +1,2 @@
+Procedural allowed: 1
+OOP balance (paise): 8000
