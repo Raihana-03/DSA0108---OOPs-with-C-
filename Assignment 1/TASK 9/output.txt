@@ -1,0 +1,4 @@
+Zone 1 off-peak paise: 1000, peak paise: 1200
+Zone 2 off-peak paise: 2000, peak paise: 2400
+Zone 3 off-peak paise: 3000, peak paise: 3600
+Invalid zone: -1
