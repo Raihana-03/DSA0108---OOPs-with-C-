@@ -1,0 +1,3 @@
+Airport weekday peak paise: 7200
+Airport weekend fare paise: 5400
+Pass covers Airport: 1
