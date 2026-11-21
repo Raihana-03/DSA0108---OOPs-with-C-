@@ -1,0 +1,5 @@
+Original latest: 999999
+Redesigned latest: 999999
+Original microseconds: 17624
+Circular microseconds: 4429
+Shift insertion O(10); circular insertion O(1).
