@@ -1,0 +1,2 @@
+Command: g++ -std=c++17 -Wall -Wextra code.cpp -o program
+Status: SUCCESS

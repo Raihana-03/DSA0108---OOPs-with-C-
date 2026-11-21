@@ -1,0 +1,18 @@
+Fleet listing:
+Bicycle | TN01-BI-101 | Rs.80 per day | Available
+TwoWheeler | TN01-TW-202 | Rs.150 per day | Available
+Car | TN01-CA-303 | Rs.1200 per day | Available
+ElectricCar | TN01-EC-404 | Rs.1600 per day | Available
+ElectricBus | TN01-EB-505 | Rs.2500 per day | Available
+
+Rental charges for 2 days:
+Bicycle: Rs.160
+TwoWheeler: Rs.330
+Car: Rs.2500
+ElectricCar: Rs.3560
+ElectricBus: Rs.5150
+
+After renting car:
+Car | TN01-CA-303 | Rs.1200 per day | Rented
+Late return charge: Rs.200
+Car | TN01-CA-303 | Rs.1200 per day | Available
