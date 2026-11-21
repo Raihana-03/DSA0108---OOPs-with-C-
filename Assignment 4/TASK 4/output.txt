@@ -1,0 +1,12 @@
+Interest rates:
+3.5%
+4%
+Releasing accounts:
+Account destroyed
+SeniorAccount destroyed
+Account destroyed
+Virtual call through pointer: 4%
+Sliced base object call: 3.5%
+Account destroyed
+SeniorAccount destroyed
+Account destroyed
