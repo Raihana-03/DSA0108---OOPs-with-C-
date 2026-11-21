@@ -1,0 +1,4 @@
+Recommended: enum class + constexpr integer-paise fare table
+Zone 0 peak fare paise: 1200
+Zone 1 peak fare paise: 2400
+Zone 2 peak fare paise: 3600
