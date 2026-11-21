@@ -1,0 +1,5 @@
+Direct object total: 162.00
+Pointer with -> total: 324.00
+Reference total: 324.00
+Dynamic object total: 90.00
+Highest cart total: 250.00
