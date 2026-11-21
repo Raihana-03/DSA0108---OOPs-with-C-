@@ -1,0 +1,6 @@
+Resistor: 10 + j0 ohm, |Z|=10
+Inductor: 0 + j31.4159 ohm
+Capacitor: 0 - j31.831 ohm
+Series RLC: 10 - j0.415062 ohm, |Z|=10.0086
+Parallel R-L: 9.08 + j2.89025 ohm, |Z|=9.52891
+Safe error: division by zero impedance
