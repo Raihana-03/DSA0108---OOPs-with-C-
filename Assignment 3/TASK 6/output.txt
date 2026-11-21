@@ -1,0 +1,5 @@
+[copy] [copy] Message: Hello World
+Empty text: 
+Self assignment: Hello
+Equal to Hello: true
+Long: A very long message for the SMS gateway
