@@ -1,0 +1,4 @@
+Teaching assistant construction: Person Student Staff TeachingAssistant 
+Teaching assistant details: Kavya 201
+CSE 8.7 AI Lab 25000
+Research scholar: Person Student Fellowship: 12000
