@@ -1,0 +1,3 @@
+Objects: SmartCard, Passenger, Journey, FareTable
+Rules: fare exact; balance after trip >= Rs 50
+OOP: encapsulation protects balance; abstraction hides fare details
