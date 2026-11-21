@@ -1,0 +1,3 @@
+Journey fare stored in integer paise
+Network total paise: 10800000000
+INT_MAX: 2147483647
