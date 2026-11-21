@@ -1,0 +1,5 @@
+a=3599 b=3601 t=3601
+Roll-over seconds: 1:0:0
+Playing: Main Theme
+Checked: track index out of range
+Checked: track index out of range
