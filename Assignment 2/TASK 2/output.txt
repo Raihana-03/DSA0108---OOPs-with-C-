@@ -1,0 +1,2 @@
+Inner=Rs10 Middle=Rs20 Outer=Rs30
+Surcharge=20%
